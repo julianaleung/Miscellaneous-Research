@@ -1,0 +1,1 @@
+Mayo-Molina, I., and Leung, J. Y. (October 3, 2022). "Optimization of the Steam Alternating Solvent Process Using Pareto-Based Multi-Objective Evolutionary Algorithms." ASME. J. Energy Resour. Technol. March 2023; 145(3): 033202. https://doi.org/10.1115/1.4055292
